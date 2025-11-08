@@ -1,4 +1,4 @@
-À partir du nœud : 20-bullseye-slim
+À partir du nœud : 20-bullseye-slim.
 
 RUNRUN apt-get update && apt-get install -y \
  ffmpeg \ 
